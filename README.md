@@ -94,6 +94,17 @@
     </a>	  
   </p>
 </details>
+<details> 
+  <summary><b>🧰 Projects</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://dolarbot.com.ar/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/guidospadavecchia/DolarBot/master/design/images/dolarbot-logo-256.png" width="128">
+      <br />
+      <b>DolarBot</b>
+    </a>
+  </p>
+</details>
 
 ## 📲 Contact me!
 <p align="center">
