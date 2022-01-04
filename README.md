@@ -2,7 +2,14 @@
 
 <span align="center">
   <span>
-    <h4 align="center"><em>Fullstack .NET Developer & Technical Product Leader</em>      
+    <h4 align="center"><em>Fullstack .NET Developer & Technical Product Leader</em>   
+    </h4>
+    <h5 align="center">
+    	<em>
+	    <img valign="bottom" src="https://www.svgrepo.com/show/362123/map-marker.svg" alt="gpsmarker" width="16" height="16"/> 
+	    <b>Buenos Aires, Argentina</b>&nbsp;
+	    <img valign="bottom" src="https://www.svgrepo.com/show/248868/argentina.svg" alt="argentina" width="16" height="16"/> 
+	</em>   
     </h4>
 </span>
 
