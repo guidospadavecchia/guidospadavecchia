@@ -2,7 +2,7 @@
 
 <span align="center">
   <span>
-    <h4 align="center"><em>Fullstack .NET Developer & Technical Product Leader</em>   
+    <h4 align="center"><em>.NET Backend Developer</em>   
     </h4>
     <h5 align="center">
     	<em>
