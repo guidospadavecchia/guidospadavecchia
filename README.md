@@ -52,6 +52,9 @@
     <a href="https://www.sqlite.org/index.html" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
     </a>
+    <a href="https://www.mysql.com/" target="_blank"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    </a>
     <a href="https://dart.dev/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
     </a>
@@ -63,16 +66,28 @@
     </a>
     <a href="https://github.com/guidospadavecchia" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/>
-    </a>    
+    </a>
+    <a href="https://gitlab.com/" target="_blank"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+    </a>
+    <a href="https://aws.amazon.com/" target="_blank"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazon" width="40" height="40"/>
+    </a>
+    <a href="https://azure.microsoft.com/es-es/services/devops/" target="_blank"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+    </a> 
     <a href="https://heroku.com" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
     </a>
     <a href="https://www.postman.com/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a>
+    <a href="https://hoppscotch.io/" target="_blank"> 
+        <img src="https://avatars.githubusercontent.com/u/56705483" alt="hoppscotch" width="40" height="40"/>
+    </a>
     <a href="https://www.atlassian.com/es/software/jira" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
-    </a>    
+    </a>	  
   </p>
 <br />
     
