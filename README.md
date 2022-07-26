@@ -96,10 +96,10 @@
   <summary><b>💻 GitHub Stats</b></summary>
   <br/>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=guidospadavecchia">
+    <img src="https://github-readme-stats.vercel.app/api?username=guidospadavecchia&show_icons=true&theme=github_dark&border_radius=10&include_all_commits=true">
     <br />
     <br />
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidospadavecchia">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidospadavecchia&theme=github_dark&border_radius=10&layout=compact">
   </p>
 </details>
 <details> 
