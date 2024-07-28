@@ -71,7 +71,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
     </a>
     <a href="https://aws.amazon.com/" target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazon" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazon" width="40" height="40"/>
     </a>
     <a href="https://azure.microsoft.com/es-es/services/devops/" target="_blank"> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
