@@ -23,70 +23,70 @@
 <h3 align="center">My technology stack:</h3>
   <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> 
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
     </a>
     <a href="https://jquery.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jquery" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jquery" width="25" height="25"/>
     </a>
     <a href="https://nodejs.org" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25"/>
     </a>
     <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="dotnet" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="dotnet" width="25" height="25"/>
     </a>
     <a href="https://www.w3schools.com/cs/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25"/>
     </a>
     <a href="https://www.devexpress.com/" target="_blank"> 
-        <img src="https://www.devexpress.com/Content/Core/facebook-share-icon.png" alt="devexpress" width="40" height="40"/>
+        <img src="https://www.devexpress.com/Content/Core/facebook-share-icon.png" alt="devexpress" width="25" height="25"/>
     </a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/>
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="25" height="25"/>
     </a>
     <a href="https://www.sqlite.org/index.html" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="25" height="25"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25"/>
     </a>
     <a href="https://dart.dev/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="25" height="25"/>
     </a>
     <a href="https://flutter.dev/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="25" height="25"/>
     </a>
     <a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="flutter" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="flutter" width="25" height="25"/>
     </a>
     <a href="https://github.com/guidospadavecchia" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="25" height="25"/>
     </a>
     <a href="https://gitlab.com/" target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="25" height="25"/>
     </a>
     <a href="https://aws.amazon.com/" target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazon" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazon" width="25" height="25"/>
     </a>
     <a href="https://azure.microsoft.com/es-es/services/devops/" target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="25" height="25"/>
     </a> 
     <a href="https://heroku.com" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="25" height="25"/>
     </a>
     <a href="https://www.postman.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25"/>
     </a>
     <a href="https://hoppscotch.io/" target="_blank"> 
-        <img src="https://avatars.githubusercontent.com/u/56705483" alt="hoppscotch" width="40" height="40"/>
+        <img src="https://avatars.githubusercontent.com/u/56705483" alt="hoppscotch" width="25" height="25"/>
     </a>
     <a href="https://www.atlassian.com/es/software/jira" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="25" height="25"/>
     </a>	  
   </p>
 <br />
@@ -131,22 +131,22 @@
 ## 📲 Contact me!
 <p align="center">
     <a href="https://guidospadavecchia.github.io/" target="_blank"> 
-        <img src="https://guidospadavecchia.github.io/images/logo-big.png" alt="website" width="40" height="40"/> 
+        <img src="https://guidospadavecchia.github.io/images/logo-big.png" alt="website" width="25" height="25"/> 
     </a>  
     &nbsp;
     <a href="mailto:guido.spadavecchia@gmail.com" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="25" height="25"/> 
     </a>  
     &nbsp;
     <a href="https://www.linkedin.com/in/gspadavecchia/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="25" height="25"/> 
     </a>  
     &nbsp;
     <a href="https://stackoverflow.com/users/11312037/guido-spadavecchia" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" width="40" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" width="25" height="25"/> 
     </a>  
     &nbsp;
     <a href="https://www.instagram.com/gspadavecchia94/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="40" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="25" height="25"/> 
     </a>  
 </p>
