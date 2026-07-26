@@ -142,10 +142,6 @@
         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="25" height="25"/> 
     </a>  
     &nbsp;
-    <a href="https://stackoverflow.com/users/11312037/guido-spadavecchia" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" width="25" height="25"/> 
-    </a>  
-    &nbsp;
     <a href="https://www.instagram.com/gspadavecchia94/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="25" height="25"/> 
     </a>  
